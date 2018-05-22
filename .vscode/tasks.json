@@ -6,7 +6,7 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "g++ -g funcoes.cpp",
+            "command": "g++ -g aula24.cpp",
             "problemMatcher": [
                 "$gcc"
             ]
